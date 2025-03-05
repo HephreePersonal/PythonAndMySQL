@@ -1,0 +1,58 @@
+[
+  {
+    "AirlineID": 1,
+    "AirlineName": "All American Airways",
+    "AirlineFromDate": "1949-01-01",
+    "AirlineToDate": "1953-01-01",
+    "MergedIntoAirlineID": null,
+    "RenamedToAirlineID": 2
+  },
+  {
+    "AirlineID": 2,
+    "AirlineName": "Allegheny Airlines",
+    "AirlineFromDate": "1953-01-01",
+    "AirlineToDate": "1979-01-01",
+    "MergedIntoAirlineID": null,
+    "RenamedToAirlineID": 3
+  },
+  {
+    "AirlineID": 3,
+    "AirlineName": "USAir",
+    "AirlineFromDate": "1979-01-01",
+    "AirlineToDate": "1997-03-01",
+    "MergedIntoAirlineID": null,
+    "RenamedToAirlineID": 4
+  },
+  {
+    "AirlineID": 4,
+    "AirlineName": "USAirways",
+    "AirlineFromDate": "1997-03-01",
+    "AirlineToDate": "2013-12-09",
+    "MergedIntoAirlineID": 5,
+    "RenamedToAirlineID": null
+  },
+  {
+    "AirlineID": 5,
+    "AirlineName": "American Airlines",
+    "AirlineFromDate": "1930-01-01",
+    "AirlineToDate": null,
+    "MergedIntoAirlineID": null,
+    "RenamedToAirlineID": null
+  },
+  {
+    "AirlineID": 6,
+    "AirlineName": "Hephree Air",
+    "AirlineFromDate": "1977-02-18",
+    "AirlineToDate": "1982-02-18",
+    "MergedIntoAirlineID": null,
+    "RenamedToAirlineID": 3
+  },
+  {
+    "AirlineID": 7,
+    "AirlineName": "tephen fucking airlines",
+    "AirlineFromDate": "1999-06-25",
+    "AirlineToDate": "2024-04-20",
+    "MergedIntoAirlineID": null,
+    "RenamedToAirlineID": null
+  }
+]
